@@ -1,0 +1,4 @@
+baseURL = 'http://rickcaudill.ca/'
+languageCode = 'en-us'
+title = 'Rick Caudill'
+theme = "toha"
